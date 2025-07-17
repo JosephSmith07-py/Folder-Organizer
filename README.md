@@ -1,4 +1,5 @@
 Python File Organizer
+
 A simple yet powerful Python script to automatically organize files in a specified directory based on their file types. Say goodbye to cluttered download folders and hello to an organized digital workspace!
 
 ✨ Features
