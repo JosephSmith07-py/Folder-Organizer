@@ -10,7 +10,8 @@ User-Friendly: Simple to run and configure.
 
 Log Output: Provides clear output on which files were moved and where.
 
-Usage
+Usage:
+either download Release or do a 
 Open the organizer.py file in a python terminal or cmd
 Enter the path to the folder you need organized (example: "C:/users/user/desktop")
 And let the app do the rest
